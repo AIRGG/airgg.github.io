@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fairgg\u002Fstatic\u002F1646401523",layout:"default",error:a,serverRendered:true,routePath:"\u002Ftugasiwp2",config:{_app:{basePath:"\u002F",assetsPath:"\u002Fairgg\u002F",cdnURL:a},content:{dbHash:"282b462d"}}}}(null));
