@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/coba", {data:[{}],fetch:{},mutations:[]});
