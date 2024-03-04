@@ -1,0 +1,1 @@
+import{j as o,l as s,F as t,o as c}from"./entry.B7xGCz2b.js";const n={},r={class:"onyqwse ojcf-ws pcrlmfo zujjtvn wzspbh- x-j-oib oiridzs"};function a(e,l){return c(),s("main",r,[t(e.$slots,"default")])}const _=o(n,[["render",a]]);export{_ as default};
