@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{k as s,E as t,o as r}from"./entry.ClASyEZO.js";const c={},n={class:"onyqwse ojcf-ws pcrlmfo zujjtvn wzspbh- x-j-oib oiridzs"};function a(o,f){return r(),s("main",n,[t(o.$slots,"default")])}const i=e(c,[["render",a]]);export{i as default};
