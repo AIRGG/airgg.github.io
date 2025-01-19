@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{aa as o,o as n,C as c,v as s,l as a}from"./entry.cM0CQHYF.js";const r={},_=a("span",{class:"ucxzc-w _jvbwiv qwfwlwt"},null,-1);function i(p,l){const e=o("tippy");return n(),c(e,{content:"Linkedin "},{default:s(()=>[_]),_:1})}const m=t(r,[["render",i]]);export{m as default};

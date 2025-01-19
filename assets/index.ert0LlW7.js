@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{aa as o,o as n,C as a,v as s,l as c}from"./entry.cM0CQHYF.js";const r={},_=c("span",{class:"dwlunch _jvbwiv qwfwlwt"},null,-1);function l(p,i){const e=o("tippy");return n(),a(e,{content:"Laravel"},{default:s(()=>[_]),_:1})}const m=t(r,[["render",l]]);export{m as default};

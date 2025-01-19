@@ -1,0 +1,1 @@
+import{_ as c}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{o as e,k as o}from"./entry.cM0CQHYF.js";const s={},n={class:"dwlunch ci-sbbv"};function t(r,_){return e(),o("span",n)}const i=c(s,[["render",t]]);export{i as default};

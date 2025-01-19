@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{aa as o,o as n,C as a,v as s,l as c}from"./entry.cM0CQHYF.js";const r={},_=c("span",{class:"nagzdah _jvbwiv qwfwlwt"},null,-1);function p(i,l){const e=o("tippy");return n(),a(e,{content:"Book Open Text"},{default:s(()=>[_]),_:1})}const m=t(r,[["render",p]]);export{m as default};

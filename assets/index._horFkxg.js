@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{o as s,k as c}from"./entry.cM0CQHYF.js";const o={},r={class:"igfarsi ci-sbbv"};function t(n,a){return s(),c("span",r)}const f=e(o,[["render",t]]);export{f as default};

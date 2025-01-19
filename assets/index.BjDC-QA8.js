@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{aa as o,o as s,C as a,v as n,l as c}from"./entry.cM0CQHYF.js";const r={},_=c("span",{class:"vjwwkgz _jvbwiv qwfwlwt"},null,-1);function p(i,l){const t=o("tippy");return s(),a(t,{content:"Fastapi "},{default:n(()=>[_]),_:1})}const m=e(r,[["render",p]]);export{m as default};

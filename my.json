@@ -1,0 +1,611 @@
+{
+  "header": {
+    "name": "Airlangga Yudiatama",
+    "description": "👋 Hi, I'm Angga. I'm a software engineer specializing in backend Golang, Python, or Java. I care deeply about building microservices and integration. I'm currently studying machine learning and heading towards to data science. 😁",
+    "city": "Bogor, West Java",
+    "country": "Indonesia",
+    "flag": "i-flagpack-id",
+    "photo": "/images/photo.png",
+    "mediaSocial": [
+      {
+        "title": "Email",
+        "value": "mailto:airlangga.yudiatama@outlook.com?subject=Hello AIR&body=Hi, I found this website ...",
+        "valuePrint": "airlangga.yudiatama@outlook.com",
+        "icon": "i-ph-envelope"
+      },
+      {
+        "title": "LinkedIn",
+        "value": "https://linkedin.com/in/airlangga-yudiatama/",
+        "valuePrint": "linkedin.com/in/airlangga-yudiatama",
+        "icon": "i-ph-linkedin-logo"
+      },
+      {
+        "title": "GitHub",
+        "value": "https://github.com/airgg",
+        "valuePrint": "github.com/airgg",
+        "icon": "i-ph-github-logo"
+      },
+      {
+        "title": "GitLab",
+        "value": "https://gitlab.com/airgg",
+        "valuePrint": "gitlab.com/airgg",
+        "icon": "i-ph-gitlab-logo"
+      }
+    ],
+    "body": [
+      {
+        "title": "Main Tools",
+        "items": [
+          {
+            "label": "Python",
+            "icon": "i-logos-python"
+          },
+          {
+            "label": "Typescript",
+            "icon": "i-logos-typescript-icon"
+          },
+          {
+            "label": "Spring",
+            "icon": "i-logos-spring-icon"
+          },
+          {
+            "label": "Flutter",
+            "icon": "i-devicon-flutter"
+          },
+          {
+            "label": "C/C++",
+            "icon": "i-logos-c-plusplus"
+          },
+          {
+            "label": "Go",
+            "icon": "i-devicon-go"
+          },
+          {
+            "label": "Nuxt",
+            "icon": "i-devicon-nuxtjs"
+          },
+          {
+            "label": "Next",
+            "icon": "i-logos-nextjs-icon"
+          },
+          {
+            "label": "Laravel",
+            "icon": "i-logos-laravel"
+          },
+          {
+            "label": "PostgreSQL",
+            "icon": "i-logos-postgresql"
+          },
+          {
+            "label": "MySQL",
+            "icon": "i-devicon-mysql"
+          },
+          {
+            "label": "Tailwind CSS",
+            "icon": "i-devicon-tailwindcss"
+          },
+          {
+            "label": "Git",
+            "icon": "i-logos-git-icon"
+          },
+          {
+            "label": "Tensorflow",
+            "icon": "i-logos-tensorflow"
+          },
+          {
+            "label": "Docker",
+            "icon": "i-devicon-docker"
+          },
+          {
+            "label": "Nginx",
+            "icon": "i-logos-nginx"
+          },
+          {
+            "label": "Arduino",
+            "icon": "i-devicon-arduino"
+          },
+          {
+            "label": "VS Code",
+            "icon": "i-logos-visual-studio-code"
+          }
+        ]
+      },
+      {
+        "title": "Roles",
+        "items": [
+          {
+            "label": "Fullstack Web Dev",
+            "icon": "i-ph-laptop"
+          },
+          {
+            "label": "Android Mobile Dev",
+            "icon": "i-ph-android-logo"
+          },
+          {
+            "label": "Internet of Things (IoT) Dev",
+            "icon": "i-ph-robot"
+          },
+          {
+            "label": "AI / Machine Learning Dev",
+            "icon": "i-ph-brain"
+          },
+          {
+            "label": "Architecture & System Analyst",
+            "icon": "i-ph-puzzle-piece"
+          },
+          {
+            "label": "Tech Lead & Mentor",
+            "icon": "i-ph-graduation-cap"
+          }
+        ]
+      },
+      {
+        "title": "Values",
+        "items": [
+          {
+            "label": "Fast self-taught",
+            "icon": "i-ph-fast-forward"
+          },
+          {
+            "label": "Highly Adaptive",
+            "icon": "i-ph-users-three"
+          },
+          {
+            "label": "Interest Learn Something New",
+            "icon": "i-ph-book-open-text"
+          },
+          {
+            "label": "Teamwork Spirit",
+            "icon": "i-ph-users"
+          },
+          {
+            "label": "Design Entushiast",
+            "icon": "i-ph-paint-brush"
+          },
+          {
+            "label": "Active Communication",
+            "icon": "i-ph-chats-circle"
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "title": "Work Experience",
+      "items": [
+        {
+          "place": "PT Pharos Indonesia",
+          "link": "https://pharos.co.id",
+          "position": "Backend Developer - Fulltime",
+          "since": "Dec 2024 - Dec 2025",
+          "image": "/images/etc/pharos.png",
+          "tech": [
+            "i-logos-python",
+            "i-logos-django-icon",
+            "i-logos-postgresql",
+            "i-logos-nginx",
+            "i-devicon-docker",
+            "i-devicon-jenkins"
+          ],
+          "detail": [
+            "Develop api, integration system and integration payment gateway, synchronize data between SatuSehat and synchronize data to BPJS. Using Python Django, PostgreSQL and Flutter. Improve service to customer (B2C) and to Clinic or Health Service (B2B)"
+          ],
+          "isprogress": true
+        },
+        {
+          "place": "PT Elang Mahkota Teknologi Tbk.",
+          "link": "https://emtek.co.id",
+          "position": "Fullstack Developer - Internship",
+          "since": "Aug 2023 - Dec 2023",
+          "image": "/images/etc/emtek.png",
+          "tech": [
+            "i-logos-python",
+            "i-logos-fastapi-icon",
+            "i-devicon-java",
+            "i-logos-spring-icon",
+            "i-logos-c-plusplus",
+            "i-logos-typescript-icon",
+            "i-devicon-nuxtjs",
+            "i-logos-mapbox-icon",
+            "i-devicon-tailwindcss",
+            "i-logos-postgresql",
+            "i-logos-nginx",
+            "i-devicon-docker"
+          ],
+          "detail": [
+            "Develop Web Dashboard IoT for monitoring and interact to device IoT, with feature realtime last status of device IoT and integrated to thingsboard, with login multi user and multi level, management device, sensor, telemetry, attribute, gps tracking location, report detail and summary."
+          ]
+        },
+        {
+          "place": "Depok City Health Department",
+          "link": "https://depok.go.id",
+          "position": "Fullstack Developer - Community Service",
+          "since": "May 2023 - Jul 2023",
+          "image": "/images/etc/depok.png",
+          "tech": [
+            "i-logos-typescript-icon",
+            "i-logos-react",
+            "i-logos-nextjs-icon",
+            "i-devicon-php",
+            "i-logos-laravel",
+            "i-logos-ant-design",
+            "i-devicon-mysql"
+          ],
+          "detail": [
+            "Develop Web Simkesling for manage hospital and health center waste, like transporter, category waste, and report waste each hospital and health center."
+          ]
+        },
+        {
+          "place": "PT Fedora Cakra Informatika",
+          "link": "https://www.fedora.co.id/",
+          "position": "Android Developer - Freelance",
+          "since": "Mar 2023 - Apr 2023",
+          "image": "/images/etc/fedora.png",
+          "tech": [
+            "i-devicon-android",
+            "i-logos-dart",
+            "i-devicon-flutter",
+            "i-devicon-sqlite"
+          ],
+          "detail": [
+            "Develop Apps with login multi user. This apps is for create queue and check queue, see doctor's schedule, room information, emergency call and see the location of the hospital and deployed for three hospital in Makassar, Sumatera and West Java."
+          ]
+        },
+        {
+          "place": "PT Bank Pembiayaan Rakyat Syariah Dinar Ashri",
+          "link": "https://www.bprsdinarashri.co.id",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Nov 2022 - Mar 2023",
+          "image": "/images/etc/dinarashri.png",
+          "tech": [
+            "i-logos-python",
+            "i-logos-fastapi-icon",
+            "i-logos-typescript-icon",
+            "i-logos-vue",
+            "i-logos-postgresql"
+          ],
+          "detail": [
+            "Develop Web E-Collateral with login multi user, multi level and deployed in multi branch company. This web is for management inventory and location collateral of bank customer."
+          ]
+        },
+        {
+          "place": "Depok City Health Department",
+          "link": "https://depok.go.id",
+          "position": "Fullstack Developer - Community Service",
+          "since": "Jul 2022 - Aug 2022",
+          "image": "/images/etc/depok.png",
+          "tech": [
+            "i-devicon-php",
+            "i-logos-laravel",
+            "i-devicon-bootstrap",
+            "i-devicon-mysql"
+          ],
+          "detail": [
+            "Develop Web Lalapan Depok with login multi user and multi level. This web for Online Food Safe Training Class, so the food handlers and drinking water depots in the city of Depok can get a certificate Food Sanitation Hygiene (HSP)."
+          ]
+        },
+        {
+          "place": "Bank Pembangunan Daerah: BPD Yogyakarta",
+          "link": "https://bpddiy.co.id",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Jun 2022 - Jul 2022",
+          "image": "/images/etc/bpddiy.png",
+          "tech": [
+            "i-logos-python",
+            "i-logos-fastapi-icon",
+            "i-logos-vue",
+            "i-devicon-sqlite"
+          ],
+          "detail": [
+            "Develop Web for Rekonsal and Reversal Transaction PPOB. This web is like tools for supporting main PPOB Banking Application BPD Yogya."
+          ]
+        },
+        {
+          "place": "Koperasi Usaha Putera Pribumi: KUPP",
+          "link": "#",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Dec 2021 - Feb 2022",
+          "image": "/images/etc/kupp.png",
+          "tech": [
+            "i-logos-python",
+            "i-logos-fastapi-icon",
+            "i-logos-vue",
+            "i-devicon-android",
+            "i-logos-dart",
+            "i-devicon-flutter",
+            "i-devicon-sqlite",
+            "i-devicon-mysql",
+            "i-logos-google-cloud",
+            "i-devicon-firebase",
+            "i-logos-socket-io",
+            "i-logos-websocket"
+          ],
+          "detail": [
+            "Develop Web Tracking Taxi Airport Soekarno-Hatta with multi login user and multi level. This web for manage driver, car, transaction integration with Google Maps and Firebase for Realtime detect driver and report.",
+            "Develop Apps Tracking Taxi Airport with login multi user. This apps for driver to get order, for the driver states ready and Realtime tracking where the driver is."
+          ]
+        },
+        {
+          "place": "Kementerian Kelautan dan Perikanan: KKP",
+          "link": "https://www.kkp.go.id",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Sep 2021 - Dec 2021",
+          "image": "/images/etc/kkp.png",
+          "tech": [
+            "i-logos-python",
+            "i-devicon-flask",
+            "i-logos-vue",
+            "i-devicon-android",
+            "i-logos-dart",
+            "i-devicon-flutter",
+            "i-devicon-sqlite",
+            "i-devicon-mysql"
+          ],
+          "detail": [
+            "Develop Web E-Commerce Training video for Trainer with login multi user and multi level. This web for manage video, selling video training, print receipt, report.",
+            "Develop Apps Lautku with login multi user and multi level. This apps for trainer upload new video and user for buying video and view video."
+          ]
+        },
+        {
+          "place": "PT Mitrsoft Global Perdana",
+          "link": "https://mitrasoft.com/",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Mar 2021 - May 2021",
+          "image": "/images/etc/mgp.png",
+          "tech": ["i-logos-python", "i-devicon-pandas", "i-logos-terminal"],
+          "detail": [
+            "Develop Web Rekonsal and Reversal payment PPOB. This web for analytic and cleaning data."
+          ]
+        },
+        {
+          "place": "Kemenkopolhukam",
+          "link": "https://polkam.go.id",
+          "position": "Desktop Developer - Freelance",
+          "since": "Jan 2021 - Feb 2021",
+          "image": "/images/etc/kemenko.png",
+          "tech": ["i-logos-python", "i-devicon-qt", "i-devicon-sqlite"],
+          "detail": [
+            "Develop Desktop Application Surat Perintah Perjalanan Dinas (SPPD) with login multi user. This application for manage document, create receipt and report."
+          ]
+        },
+        {
+          "place": "PT Mitrsoft Global Perdana",
+          "link": "https://mitrasoft.com/",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Mar 2020 - Nov 2020",
+          "image": "/images/etc/mgp.png",
+          "tech": [
+            "i-logos-python",
+            "i-devicon-flask",
+            "i-devicon-bootstrap",
+            "i-devicon-jquery",
+            "i-devicon-mysql",
+            "i-devicon-microsoftsqlserver"
+          ],
+          "detail": [
+            "Develop Web PPOB PDAM Bas Sampang with login admin. This is for payment PDAM and print receipt and show history of payment for report.",
+            "Develop Web Invoice Generator with multi login user. This web from manage invoice, send email with file, manage receipt and report.",
+            "Develop Web Personal Management and Payroll System with login multi user and multi level. This web for manage data personal of employee, calculate salary , tax, allowance, overtime and other with report personal, summary, etc."
+          ]
+        },
+        {
+          "place": "PT Piranti Alphabet Perkasa",
+          "link": "https://papitupisyariah.com/",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Sep 2019 - Dec 2019",
+          "image": "/images/etc/papitupi.png",
+          "tech": [
+            "i-logos-python",
+            "i-devicon-android",
+            "i-devicon-java",
+            "i-devicon-flask",
+            "i-devicon-bootstrap",
+            "i-devicon-jquery",
+            "i-devicon-mysql",
+            "i-logos-mapbox-icon"
+          ],
+          "detail": [
+            "Develop Web Tracking Sales with login multi user and multi level, integration with Mapbox for tracking, and semi CMS like see planning sales in next month, see revenue this month and back month, manage user, file, photo as proof and report by level, month, year.",
+            "Develop Sales Apps Android with login multi user and protection location fraud. This apps for create planning and target  revenue for next month, send file and photo for report in web."
+          ]
+        },
+        {
+          "place": "PT Mitrsoft Global Perdana",
+          "link": "https://mitrasoft.com/",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Jun 2019 - Aug 2019",
+          "image": "/images/etc/mgp.png",
+          "tech": [
+            "i-logos-python",
+            "i-devicon-flask",
+            "i-devicon-jquery",
+            "i-devicon-mysql"
+          ],
+          "detail": [
+            "I continue build CMS(Content Management System) Mecash, this continued project from my internship. I just change framework from java spring to python flask and from sql server to mysql."
+          ]
+        },
+        {
+          "place": "CV Mitrasoft Global",
+          "link": "https://mitrasoft.com",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Jan 2019 - Mar 2019",
+          "image": "/images/etc/mgp.png",
+          "tech": [
+            "i-devicon-java",
+            "i-logos-spring-icon",
+            "i-devicon-javascript",
+            "i-devicon-bootstrap",
+            "i-devicon-jquery",
+            "i-devicon-microsoftsqlserver",
+            "i-devicon-mysql"
+          ],
+          "detail": [
+            "I build Forum Group Discussion, it's like stackoverflow for internal purpose.",
+            "I help my friend develop CSBO (Customer Service Back Office) for IBA Banking System, they want to convert it from desktop to website.",
+            "I build CMS(Content Management System) Mecash, it's for management market content and integration to Mecash Apps."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "items": [
+        {
+          "place": "Jakarta State Polytechnic",
+          "link": "https://pnj.ac.id",
+          "position": "Computer Science - Bachelor's degree",
+          "since": "Aug 2020 - Sep 2024",
+          "image": "/images/etc/pnj.png",
+          "tech": [],
+          "detail": []
+        },
+        {
+          "place": "CCIT - Faculty of Engineering University of Indonesia",
+          "link": "https://ccit.eng.ui.ac.id",
+          "position": "Computer Science - Associate Degree",
+          "since": "Aug 2020 - Sep 2022",
+          "image": "/images/etc/ccit.png",
+          "tech": [],
+          "detail": []
+        },
+        {
+          "place": "SMKN 1 Cibinong",
+          "link": "https://smkn1cibinong.sch.id/",
+          "position": "Software Engineering - Vocational High School",
+          "since": "Jul 2017 - Jul 2020",
+          "image": "/images/etc/smk.png",
+          "tech": [],
+          "detail": []
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "items": [
+        {
+          "place": "2023",
+          "link": "#",
+          "position": "Appreciation throughout the year 2023.",
+          "since": "",
+          "image": "/images/etc/awards.png",
+          "tech": [],
+          "detail": [
+            "Community Service - Simkesling DOI:10.25157/ag.v6i1.12675.",
+            {
+              "label": "Internship - PT Elang Mahkota Teknologi Tbk.",
+              "link": "https://drive.google.com/file/d/1CuacK98uKWMFpMfHp5XNaHA8zfY0dN2q/view?usp=drive_link"
+            },
+            {
+              "label": "Software Development Competency Professional Certification (LSP Jakarta State Polytechnic).",
+              "link": "https://drive.google.com/file/d/1jYn96PfUFzhGTH_JQMRPVOra6jnYjAUI/view?usp=drive_link"
+            },
+            {
+              "label": "National Polytechnic Informatics Student Competition: KMIPN - Hackathon (Finalist).",
+              "link": "https://drive.google.com/file/d/1E9l9TO9l8IZ-RyzrrO605kBylX2osWIH/view?usp=drive_link"
+            }
+          ]
+        },
+        {
+          "place": "2022",
+          "link": "#",
+          "position": "Appreciation throughout the year 2022.",
+          "since": "",
+          "image": "/images/etc/awards.png",
+          "tech": [],
+          "detail": [
+            {
+              "label": "Community Service - Lalapan Depok DOI:10.25157/ag.v5i1.9418.",
+              "link": "https://drive.google.com/file/d/1ZzbOQAksXo0OXKgnkzsuW3hA_9dV1hgk/view?usp=drive_link"
+            },
+            {
+              "label": "Programmer Competency Professional Certification (LSP University of Indonesia).",
+              "link": "https://drive.google.com/file/d/1D9xC8wydVbj1wvV0be1NFfsGs75b3lKb/view?usp=drive_link"
+            },
+            {
+              "label": "Student Creativity Program: PKM (Finalist Pass Funding).",
+              "link": "https://drive.google.com/file/d/1kr9Lp2EW8Rr2kmx66NYojXZmTU3KIvwU/view?usp=drive_link"
+            },
+            {
+              "label": "National Polytechnic Informatics Student Competition: KMIPN - EGovernment (Finalist Best Poster).",
+              "link": "https://drive.google.com/file/d/1DHFj6pQuiUmQbNkWVItgPXAKZxSjX7oE/view?usp=drive_link"
+            }
+          ]
+        },
+        {
+          "place": "2020",
+          "link": "#",
+          "position": "Appreciation throughout the year 2020.",
+          "since": "",
+          "image": "/images/etc/awards.png",
+          "tech": [],
+          "detail": [
+            {
+              "label": "Software Development KKNI Level 2 Competency Professional Certification (LSP SMKN1 Cibinong).",
+              "link": "https://drive.google.com/file/d/1HNlSN53I868Rddvm-MzjuQVbbB6AwlhI/view?usp=drive_link"
+            },
+            {
+              "label": "Participant National Data Science Competition (NDSC) Shopee.",
+              "link": "https://drive.google.com/file/d/1rcXpEad0WpPtb3KH-8VruB2OkDsm5Jrc/view?usp=drive_link"
+            }
+          ]
+        },
+        {
+          "place": "2019",
+          "link": "#",
+          "position": "Appreciation throughout the year 2019.",
+          "since": "",
+          "image": "/images/etc/awards.png",
+          "tech": [],
+          "detail": [
+            {
+              "label": "Internship - CV Mitrasoft Global.",
+              "link": "https://drive.google.com/file/d/1cuzrWINCrZ0whZVtUIrdvuTLlqIEYNU0/view?usp=drive_link"
+            },
+            {
+              "label": "6th/180+ Zoom Educare Program (Finalist Grade of Excellent).",
+              "link": "https://drive.google.com/file/d/13MD3PXRkgrglPjqr64vpOZv_NCcosWm9/view?usp=drive_link"
+            }
+          ]
+        },
+        {
+          "place": "2018",
+          "link": "#",
+          "position": "Appreciation throughout the year 2018.",
+          "since": "",
+          "image": "/images/etc/awards.png",
+          "tech": [],
+          "detail": [
+            {
+              "label": "Participant Skill Competition Province Jawa Barat (LKS).",
+              "link": "https://drive.google.com/file/d/1E2yXHAAjN5wlVBNdxLvUqMi7CCLiFLCZ/view?usp=drive_link"
+            },
+            {
+              "label": "1 Place Skill Competition District Bogor (LKS).",
+              "link": "https://drive.google.com/file/d/1CRcEz0ImIhoLA2-QVOBODZ23PxBzQAAD/view?usp=drive_link"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "certificate": {
+      "text": "All available certificates:",
+      "link_text": "bit.ly/airgg18-certs",
+      "link": "https://bit.ly/airgg18-certs"
+    },
+    "button": [
+      {
+        "link": "/airlangga-yudiatama-cv-resume-merged.pdf",
+        "text": "My CV/Resume"
+      },
+      {
+        "link": "/airlangga-yudiatama-pitch-deck.pdf",
+        "text": "My Portofolio"
+      }
+    ],
+    "copyright": "Copyright &copy; 2025 AIRGG All Right Reserved."
+  }
+}

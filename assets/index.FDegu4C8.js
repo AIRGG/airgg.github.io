@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{aa as o,o as s,C as n,v as c,l as a}from"./entry.cM0CQHYF.js";const r={},_=a("span",{class:"qmhxtoe _jvbwiv qwfwlwt"},null,-1);function p(i,l){const e=o("tippy");return s(),n(e,{content:"Websocket"},{default:c(()=>[_]),_:1})}const d=t(r,[["render",p]]);export{d as default};

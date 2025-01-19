@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{aa as n,o,C as s,v as c,l as a}from"./entry.cM0CQHYF.js";const r={},_=a("span",{class:"cc-ntxq _jvbwiv qwfwlwt"},null,-1);function p(i,l){const t=n("tippy");return o(),s(t,{content:"Ant Design"},{default:c(()=>[_]),_:1})}const m=e(r,[["render",p]]);export{m as default};

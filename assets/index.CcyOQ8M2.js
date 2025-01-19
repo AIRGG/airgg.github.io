@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{aa as o,o as n,C as s,v as a,l as c}from"./entry.cM0CQHYF.js";const r={},_=c("span",{class:"qc--ie- _jvbwiv qwfwlwt"},null,-1);function i(p,l){const e=o("tippy");return n(),s(e,{content:"Terminal"},{default:a(()=>[_]),_:1})}const d=t(r,[["render",i]]);export{d as default};
