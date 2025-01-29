@@ -62,7 +62,7 @@
           },
           {
             "label": "Nuxt",
-            "icon": "i-devicon-nuxtjs"
+            "icon": "i-logos-nuxt-icon"
           },
           {
             "label": "Next",
@@ -178,7 +178,7 @@
           "place": "PT Pharos Indonesia",
           "link": "https://pharos.co.id",
           "position": "Backend Developer - Fulltime",
-          "since": "Dec 2024 - Dec 2025",
+          "since": "Dec 2024",
           "image": "/images/etc/pharos.png",
           "tech": [
             "i-logos-python",
