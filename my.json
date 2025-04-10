@@ -485,6 +485,20 @@
       "title": "Awards",
       "items": [
         {
+          "place": "2024",
+          "link": "#",
+          "position": "Appreciation throughout the year 2024.",
+          "since": "",
+          "image": "/images/etc/awards.png",
+          "tech": [],
+          "detail": [
+            {
+              "label": "Associate Data Science Competency Professional Certification (LSP Jakarta State Polytechnic).",
+              "link": "https://drive.google.com/file/d/15vgGAHuaQe3VHQBYcHOblbyb7qgigGsy/view?usp=drive_link"
+            }
+          ]
+        },
+        {
           "place": "2023",
           "link": "#",
           "position": "Appreciation throughout the year 2023.",
