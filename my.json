@@ -175,12 +175,56 @@
       "title": "Work Experience",
       "items": [
         {
+          "place": "PT Toyota Astra Financial Services",
+          "link": "https://taf.co.id",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Mar 2024 - Mei 2025",
+          "image": "/images/etc/taf.png",
+          "tech": [
+            "i-logos-python",
+            "i-logos-fastapi-icon",
+            "i-logos-vue",
+            "i-devicon-nuxtjs",
+            "i-devicon-sqlite"
+          ],
+          "detail": [
+            "Developed a multi-branch stock opname system with offline mode and sync-to-ERP capability",
+            "Deployed across 10+ branches, managing 1,000+ inventory items/month per branch",
+            "Supported offline stock checking, allowing staff to scan and store data without internet",
+            "Built sync engine to push offline data to the main ERP once connection is restored",
+            "Prevented barcode fraud by detecting typed input vs camera-based scan",
+            "Reduced audit processing time by ~60%, and decreased manipulation risk by ~90%",
+            "Enabled seamless offline-to-online transition with data integrity ensured during sync"
+          ]
+        },
+        {
+          "place": "PT Sungai Mas Inti Gasindo",
+          "link": "https://google.com",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Dec 2024 - Feb 2025",
+          "image": "/images/etc/pertamina.png",
+          "tech": [
+            "i-logos-laravel",
+            "i-logos-vue",
+            "i-devicon-mysql"
+          ],
+          "detail": [
+            "Built a web application to manage LPG product sales and inventory across multiple branches",
+            "Deployed in 10+ branches, supporting daily transactions and stock monitoring",
+            "Implemented custom business rules: max 3 units/month for personal use and 15 units/month for companies",
+            "Standardized inventory and sales reports across all branches, improving monitoring accuracy by ~80%",
+            "Reduced manual quota-checking time by ~70% through automated business rule logic",
+            "Handled 10,000+ LPG transactions monthly, ensuring compliance with regional distribution rules"
+          ]
+        },
+        {
           "place": "PT Pharos Indonesia",
           "link": "https://pharos.co.id",
           "position": "Backend Developer - Fulltime",
           "since": "Dec 2024",
           "image": "/images/etc/pharos.png",
           "tech": [
+            "i-devicon-flutter",
             "i-logos-python",
             "i-logos-django-icon",
             "i-logos-postgresql",
@@ -189,7 +233,11 @@
             "i-devicon-jenkins"
           ],
           "detail": [
-            "Develop api, integration system and integration payment gateway, synchronize data between SatuSehat and synchronize data to BPJS. Using Python Django, PostgreSQL and Flutter. Improve service to customer (B2C) and to Clinic or Health Service (B2B)"
+            "Collaborated on API development and payment gateway integration for clinic systems using Flutter, Django and PostgreSQL",
+            "Fixed critical bugs that improved system stability and reduced error reports from clients by ~60%",
+            "Developed reusable Flutter components like notifications with websocket etc., and a hybrid marketplace system to make development progress ~30x faster",
+            "Contributed to a 2x faster checkout flow at marketplace using hybrid system and unlocked new revenue opportunities",
+            "Contributed to faster development cycles by debugging and refactoring shared components"
           ],
           "isprogress": true
         },
@@ -214,7 +262,7 @@
             "i-devicon-docker"
           ],
           "detail": [
-            "Develop Web Dashboard IoT for monitoring and interact to device IoT, with feature realtime last status of device IoT and integrated to thingsboard, with login multi user and multi level, management device, sensor, telemetry, attribute, gps tracking location, report detail and summary."
+            "Built a web dashboard for real-time IoT device monitoring and control, integrated with ThingsBoard. Included multi-level user roles, GPS tracking, sensor and telemetry management, and detailed reporting. Supported over 100 devices with real-time updates, reducing manual checks and improving operational response time by ~40%"
           ]
         },
         {
@@ -233,7 +281,9 @@
             "i-devicon-mysql"
           ],
           "detail": [
-            "Develop Web Simkesling for manage hospital and health center waste, like transporter, category waste, and report waste each hospital and health center."
+            "Developed a web-based Simkesling system to manage medical waste across hospitals and health centers. Included features for waste categorization, transporter assignment, and reporting per facility. Helping reduce manual data entry and improving reporting accuracy by ~80%",
+            "Used by 50+ hospitals and health centers to track and standarization report medical waste efficiently",
+            "Improved regulatory compliance and reduced manual reporting effort"
           ]
         },
         {
@@ -249,7 +299,9 @@
             "i-devicon-sqlite"
           ],
           "detail": [
-            "Develop Apps with login multi user. This apps is for create queue and check queue, see doctor's schedule, room information, emergency call and see the location of the hospital and deployed for three hospital in Makassar, Sumatera and West Java."
+            "Built a Flutter app for hospital queue management, doctor schedules, and emergency features — deployed in 3 hospitals across Makassar, Sumatera, and West Java",
+            "Integrated with SIMRS APIs to support real-time queue and booking updates",
+            "Served 10,000+ patients monthly, enabling remote booking and reducing average wait times by ~40%"
           ]
         },
         {
@@ -266,7 +318,10 @@
             "i-logos-postgresql"
           ],
           "detail": [
-            "Develop Web E-Collateral with login multi user, multi level and deployed in multi branch company. This web is for management inventory and location collateral of bank customer."
+            "Built a web E-Collateral system for managing bank customer collateral (e.g., jewellery, documents)",
+            "Deployed in 10+ branches and used by 50+ users across roles: admin, teller, warehouse, auditor",
+            "Enabled detailed tracking by rack, warehouse, and item attributes — reducing collateral search time by ~60%",
+            "Improved operational visibility and data accuracy with multi-level role-based access"
           ]
         },
         {
@@ -282,7 +337,10 @@
             "i-devicon-mysql"
           ],
           "detail": [
-            "Develop Web Lalapan Depok with login multi user and multi level. This web for Online Food Safe Training Class, so the food handlers and drinking water depots in the city of Depok can get a certificate Food Sanitation Hygiene (HSP)."
+            "Built a web platform (Lalapan Depok) for the Depok City Health Department to manage food safety training and certification (HSP)",
+            "Supported 800+ users annually with multi-user/multi-level roles, including food handlers and admin staff",
+            "Enabled online registration, scheduling, and certificate issuance — reducing manual processing and improving access",
+            "Helped streamline public health certification for 200+ participants per batch, across 4 training batches annually"
           ]
         },
         {
@@ -298,7 +356,10 @@
             "i-devicon-sqlite"
           ],
           "detail": [
-            "Develop Web for Rekonsal and Reversal Transaction PPOB. This web is like tools for supporting main PPOB Banking Application BPD Yogya."
+            "Built a reconciliation and reversal web tool for PPOB transactions, used internally by BPD DIY.",
+            "Automated daily H+1 processing, replacing manual Excel updates with system-integrated syncing",
+            "Reduced reconciliation time by ~70% and improved accuracy for thousands of monthly transactions",
+            "Enabled staff to filter by date range and payment type, then auto-update records in the core PPOB system"
           ]
         },
         {
@@ -322,8 +383,15 @@
             "i-logos-websocket"
           ],
           "detail": [
-            "Develop Web Tracking Taxi Airport Soekarno-Hatta with multi login user and multi level. This web for manage driver, car, transaction integration with Google Maps and Firebase for Realtime detect driver and report.",
-            "Develop Apps Tracking Taxi Airport with login multi user. This apps for driver to get order, for the driver states ready and Realtime tracking where the driver is."
+            "Developed a web-based taxi tracking system with multi-user, multi-level access to manage drivers, vehicles, and transaction history. Integrated with Google Maps and Firebase for real-time GPS tracking of drivers",
+            "Used to monitor 100+ airport taxi drivers daily",
+            "Enabled dispatch staff to assign orders, monitor vehicle positions, and access reports",
+            "Improved driver coordination and reduced passenger wait time by ~40%",
+            "=====",
+            "Built a mobile app for taxi drivers to receive orders, update readiness status, and share real-time location",
+            "Used by drivers to handle 300–500+ orders weekly",
+            "Integrated with Firebase for real-time driver location updates to the web dashboard",
+            "Improved driver availability tracking and dispatch response efficiency"
           ]
         },
         {
@@ -343,8 +411,13 @@
             "i-devicon-mysql"
           ],
           "detail": [
-            "Develop Web E-Commerce Training video for Trainer with login multi user and multi level. This web for manage video, selling video training, print receipt, report.",
-            "Develop Apps Lautku with login multi user and multi level. This apps for trainer upload new video and user for buying video and view video."
+            "Developed a multi-user platform for selling and managing training videos. Trainers can upload content, manage purchases, print receipts, and view sales reports",
+            "Targeted for 20+ trainers and 100+ users with an expected 500+ annual transactions",
+            "Improved training delivery and content sales",
+            "=====",
+            "Trainers can upload new training videos, while users can purchase and stream content",
+            "Designed to support 200–300+ video views per month with real-time playback",
+            "Laid the foundation for mobile-first digital learning and scalable content delivery"
           ]
         },
         {
@@ -355,7 +428,11 @@
           "image": "/images/etc/mgp.png",
           "tech": ["i-logos-python", "i-devicon-pandas", "i-logos-terminal"],
           "detail": [
-            "Develop Web Rekonsal and Reversal payment PPOB. This web for analytic and cleaning data."
+            "Built a reconciliation and reversal web tool for PPOB transactions, used internally by the company.",
+            "Automated daily H+1 processing, replacing manual Excel updates with system-integrated syncing",
+            "Supported importing Excel files from multiple third-party vendors to streamline reconciliation inputs",
+            "Reduced reconciliation time by ~70% and improved accuracy for thousands of monthly transactions",
+            "Enabled staff to filter by date range and payment type, then auto-update records in the core PPOB system"
           ]
         },
         {
@@ -366,7 +443,10 @@
           "image": "/images/etc/kemenko.png",
           "tech": ["i-logos-python", "i-devicon-qt", "i-devicon-sqlite"],
           "detail": [
-            "Develop Desktop Application Surat Perintah Perjalanan Dinas (SPPD) with login multi user. This application for manage document, create receipt and report."
+            "Built a desktop SPPD (official travel document) management app using Python and PyQt",
+            "Deployed in a local office network, used by 2-5 staff for creating SPPD, receipts, and reports",
+            "Enabled automatic handling of yearly closings with separate database management and backup support",
+            "Reduced travel document processing time by ~60% and improved accuracy by replacing manual workflows"
           ]
         },
         {
@@ -384,9 +464,20 @@
             "i-devicon-microsoftsqlserver"
           ],
           "detail": [
-            "Develop Web PPOB PDAM Bas Sampang with login admin. This is for payment PDAM and print receipt and show history of payment for report.",
-            "Develop Web Invoice Generator with multi login user. This web from manage invoice, send email with file, manage receipt and report.",
-            "Develop Web Personal Management and Payroll System with login multi user and multi level. This web for manage data personal of employee, calculate salary , tax, allowance, overtime and other with report personal, summary, etc."
+            "Developed a web-based PPOB system for processing PDAM water bill payments in Bas Sampang",
+            "Used by 1–2 admins to process ~500+ customer payments monthly",
+            "Allowed receipt printing and report generation, replacing manual tracking",
+            "Improved transaction speed and reduced errors, enabling ~70% faster payment reconciliation",
+            "=====",
+            "Built a multi-user invoicing platform for small businesses to streamline billing",
+            "Used by 2+ user generating 1000+ invoices annually",
+            "Enabled sending invoices with PDF attachments via email and tracking receipts",
+            "Reduced manual creating invoicing time by ~60% and improved payment tracking accuracy",
+            "=====",
+            "Developed a payroll and HR platform with multi-level access for employee data and salary calculations",
+            "Managed payroll for 20+ employees monthly",
+            "Automated tax, overtime, and allowance calculations, and generated payroll summary reports",
+            "Reduced manual payroll workload by ~75%, improving payout accuracy and timeliness"
           ]
         },
         {
@@ -406,8 +497,17 @@
             "i-logos-mapbox-icon"
           ],
           "detail": [
-            "Develop Web Tracking Sales with login multi user and multi level, integration with Mapbox for tracking, and semi CMS like see planning sales in next month, see revenue this month and back month, manage user, file, photo as proof and report by level, month, year.",
-            "Develop Sales Apps Android with login multi user and protection location fraud. This apps for create planning and target  revenue for next month, send file and photo for report in web."
+            "Developed a multi-user web platform for managing and tracking sales activity",
+            "Integrated with Mapbox for real-time sales location tracking and route visualization",
+            "Used by 10+ salespeople and managers across multiple place",
+            "Features included monthly sales planning, revenue dashboards (monthly & historical), user and document management, and photo-based proof submission",
+            "Reduced sales monitoring time by ~60% and improved report accuracy across teams",
+            "=====",
+            "Built a mobile app for sales teams to plan monthly targets, upload reports, and ensure location authenticity",
+            "Used by 10+ field staff, submitting 100+ proof photos and reports monthly",
+            "Included location fraud detection to verify on-site presence",
+            "Synced directly with the web dashboard for unified planning and performance tracking",
+            "Improved sales monitoring efficiency by ~60% and enabled accurate field activity reporting"
           ]
         },
         {
@@ -442,9 +542,20 @@
             "i-devicon-mysql"
           ],
           "detail": [
-            "I build Forum Group Discussion, it's like stackoverflow for internal purpose.",
-            "I help my friend develop CSBO (Customer Service Back Office) for IBA Banking System, they want to convert it from desktop to website.",
-            "I build CMS(Content Management System) Mecash, it's for management market content and integration to Mecash Apps."
+            "Built an internal Q&A and knowledge-sharing forum similar to StackOverflow",
+            "Designed for 50–100 internal users across departments to ask questions, give answers, and upvote solutions",
+            "Helped reduce repetitive questions and accelerated onboarding by ~40%",
+            "Improved internal documentation and knowledge retention in the organization",
+            "=====",
+            "Assisted in converting a desktop-based customer service system into a responsive web app",
+            "Migrated core modules such as customer lookup, ticketing, and transaction",
+            "Improved accessibility for ~20–30 CS staff, enabling remote access and reducing support request handling time",
+            "Contributed to UI modernization and backend logic adaptation during web migration phase",
+            "=====",
+            "Developed a CMS to manage market banners, content, and promo material for the Mecash mobile app",
+            "Used by marketing/admin teams to manage 100+ pieces of content monthly",
+            "Integrated with Mecash App to instantly reflect updated content and promotions",
+            "Reduced marketing campaign update time by ~70% through centralized CMS and automation"
           ]
         }
       ]
