@@ -262,7 +262,9 @@
             "i-devicon-docker"
           ],
           "detail": [
-            "Built a web dashboard for real-time IoT device monitoring and control, integrated with ThingsBoard. Included multi-level user roles, GPS tracking, sensor and telemetry management, and detailed reporting. Supported over 100 devices with real-time updates, reducing manual checks and improving operational response time by ~40%"
+            "Built a web dashboard for real-time IoT device monitoring and control, integrated with ThingsBoard",
+            "Included multi-level user roles, GPS tracking, sensor and telemetry management, and detailed reporting",
+            "Supported over 100 devices with real-time updates, reducing manual checks and improving operational response time by ~40%"
           ]
         },
         {
