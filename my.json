@@ -175,9 +175,30 @@
       "title": "Work Experience",
       "items": [
         {
+          "place": "PT PLN Energi Primer Indonesia (EPI)",
+          "link": "https://plnepi.co.id",
+          "position": "Fullstack Developer - Freelance",
+          "since": "Sep 2025 - Nov 2025",
+          "image": "/images/etc/plnepi.png",
+          "tech": [
+            "i-logos-laravel",
+            "i-logos-vue",
+            "i-devicon-nuxtjs",
+            "i-devicon-mysql"
+          ],
+          "detail": [
+            "Built a one-stop internal operations platform that centralizes access to multiple applications, including meeting management, support management, daily monitoring reports, and MHCA work logs.",
+            "Developed a complete meeting module covering invitation workflows, attendance tracking, and management Minutes of Meeting (MoM) file, improving documentation accuracy each meeting by ~90%.",
+            "Implemented a support management system with PIC assignment, equipment/tool tracking, and a real-time support dashboard, accelerating support handling by 50%.",
+            "Created daily operational reporting for tickets, link status, support tasks, backup storage, firewall status, FortiMail health, and daily notes, increasing monitoring efficiency by 60%.",
+            "Built MHCA work-log features enabling staff to record tasks, progress updates, issues, completion/hold status, and upload files, improving workflow transparency by 80%.",
+            "Delivered a unified single-login portal with centralized navigation and role-based access, reducing tool-switching time across teams by 70%."
+          ]
+        },
+        {
           "place": "PT Toyota Astra Financial Services",
           "link": "https://taf.co.id",
-          "position": "Fullstack Developer - Freelance",
+          "position": "Web Developer - Freelance",
           "since": "Mar 2025 - Mei 2025",
           "image": "/images/etc/taf.png",
           "tech": [
@@ -200,7 +221,7 @@
         {
           "place": "PT Sungai Mas Inti Gasindo",
           "link": "https://google.com",
-          "position": "Fullstack Developer - Freelance",
+          "position": "Web Developer - Freelance",
           "since": "Dec 2024 - Feb 2025",
           "image": "/images/etc/pertamina.png",
           "tech": [
@@ -220,7 +241,7 @@
         {
           "place": "PT Pharos Indonesia",
           "link": "https://pharos.co.id",
-          "position": "Backend Developer - Fulltime",
+          "position": "Fullstack Developer - Fulltime",
           "since": "Dec 2024",
           "image": "/images/etc/pharos.png",
           "tech": [
