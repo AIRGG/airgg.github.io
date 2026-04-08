@@ -1,7 +1,7 @@
 {
   "header": {
     "name": "Airlangga Yudiatama",
-    "description": "👋 Hi, I'm Angga. I'm a software engineer specializing in backend Python, NodeJs, and Java. I care deeply about building microservices and integration. I'm currently studying machine learning and heading towards to data science. 😁",
+    "description": "👋 Hi, I'm Angga. I'm a software engineer specializing in backend Python, JavaScript, and Java. I care deeply about building microservices and integration. I'm currently studying machine learning and heading towards to data science. 😁",
     "city": "Bogor, West Java",
     "country": "Indonesia",
     "flag": "i-flagpack-id",
@@ -195,11 +195,11 @@
             "i-devicon-python"
           ],
           "detail": [
-            "Maintained and extended 2 dashboards (internal & partner), 2 backends (Node.js & Golang), and 1 embedded webapp deployed inside Alfagift and MyPertamina via webview architecture",
+            "Maintained and extended 2 dashboards (internal & partner) deployed across Indonesia, Malaysia, Singapore, and Thailand, 2 backends (Node.js & Golang), and 1 embedded webapp inside Alfagift and myPertamina via webview architecture",  
             "Standardized table components and filter/sort behavior across all menus in both dashboards with full backend alignment, and resolved critical transaction-view filter/sort bugs — improving UI consistency and query reliability by ~75%",
             "Refactored all three frontend codebases (internal dashboard, partner dashboard, webapp) to enforce ESLint standards and migrated from CRA to Vite, cutting build time from ~3 min to under 30s and dev server startup from ~45s to under 2s",
             "Achieved ~80% code coverage across all frontends via unit and integration tests, updated GitHub Actions workflows to align with the new Vite pipeline, and migrated Node.js backends from Yarn to Bun — reducing dependency install & build time from ~10 min to under 1 min",
-            "Implemented a PIN screen across both Alfagift and MyPertamina webapps integrated with Node.js backend — replacing OTP delivery via email/SMS/WhatsApp and cutting authentication delivery costs by ~85%",
+            "Implemented a PIN screen across both Alfagift and myPertamina webapps integrated with Node.js backend — replacing OTP delivery via email/SMS/WhatsApp and cutting authentication delivery costs by ~85%",
             "Migrated heavy CSV export jobs from Node.js to Golang via a Kafka-based async queue, with email notifications on job completion/failure and on-demand download link — reducing export processing time from 30+ minutes to under 1 minute",
             "Built a dynamic PDF report generator for partner sustainability and monthly reports with coordinate-based label/value positioning over a base template image, eliminating manual document preparation & calculation",
             "Integrated live market price data into the UCO price management interface for comparison, and redesigned the interface to support both Cronicle-scheduled and instant apply-now price updates — reducing pricing update time from a multi-step manual process to under 30 seconds",
