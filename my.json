@@ -89,10 +89,6 @@
             "icon": "i-logos-git-icon"
           },
           {
-            "label": "Tensorflow",
-            "icon": "i-logos-tensorflow"
-          },
-          {
             "label": "Docker",
             "icon": "i-devicon-docker"
           },
@@ -118,7 +114,7 @@
             "icon": "i-ph-laptop"
           },
           {
-            "label": "Android Mobile Dev",
+            "label": "Android/Ios Mobile Dev",
             "icon": "i-ph-android-logo"
           },
           {
